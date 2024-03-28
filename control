@@ -1,0 +1,7 @@
+Package: hello-urtk
+Version: 1.0-1
+Maintainer: Lev <lk@levkopo.ru>
+Section: misc
+Architecture: amd64
+Priority: optional
+Description: non comments
